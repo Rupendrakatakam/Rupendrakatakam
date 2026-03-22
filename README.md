@@ -26,9 +26,9 @@ Currently, I'm diving deep into robotics research at CAIR, IIT Mandi, while also
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rupendrakatakam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupendrakatakam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
 
 <br/>
 
