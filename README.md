@@ -15,7 +15,7 @@ Currently, I'm diving deep into robotics research at CAIR, IIT Mandi, while also
 ### 🌱 My core expertise & interests
 - **Robotics & Control:** ROS / ROS2, motion planning, robotic manipulators, and advanced drive mechanisms (cycloidal, harmonic, capstan).
 - **Vision & AI:** Computer vision, 6D pose estimation, object detection & sorting, and machine learning fundamentals.
-- **Systems:** Aerial systems, drones, and hardware-software integration.
+- **Systems:** Aerial systems (drones - multirotors), and hardware-software integration.
 
 ### 💻 Tech Stack
 - **Languages:** C++, Python, Rust, Dart
