@@ -28,5 +28,5 @@ Currently, I'm diving deep into robotics research at CAIR, IIT Mandi, while also
 </p>
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/rupendrakatakam](#)
-- **Email:** [rupendrakatakam@gamil.com](mailto:your.email@example.com)
+- **LinkedIn:** [linkedin.com/in/rupendra-katakam](#)
+- **Email:** [katakamrupendra@gamil.com](mailto:your.email@example.com)
