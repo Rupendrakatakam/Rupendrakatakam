@@ -8,11 +8,12 @@ Currently, I'm diving deep into robotics research at CAIR, IIT Mandi, while also
 
 ### 🔭 What I'm currently working on
 - Conducting robotics research as an intern at CAIR, IIT Mandi.
+- Building a custom nav stack for the wheeled mobile robots (AMRs, AGVs, etc) 
 - Developing **Flowstate**, a productivity application built with Flutter to optimize deep work and cognitive load.
 - Expanding my daily programming skills by learning **Rust** from the ground up.
 
 ### 🌱 My core expertise & interests
-- **Robotics & Control:** ROS / ROS2, motion planning, 5-DOF robotic arms, and advanced drive mechanisms (cycloidal, harmonic).
+- **Robotics & Control:** ROS / ROS2, motion planning, robotic manipulators, and advanced drive mechanisms (cycloidal, harmonic, capstan).
 - **Vision & AI:** Computer vision, 6D pose estimation, object detection & sorting, and machine learning fundamentals.
 - **Systems:** Aerial systems, drones, and hardware-software integration.
 
@@ -21,11 +22,19 @@ Currently, I'm diving deep into robotics research at CAIR, IIT Mandi, while also
 - **Libraries/Tools:** ROS/ROS2, OpenCV, Flutter, Git
 - **Hardware:** Microcontrollers, Sensors, Custom Robotic Manipulators
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="Rupendra's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium" alt="Top Languages" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/ rupendra-katakam](#)
