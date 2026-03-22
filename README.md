@@ -32,7 +32,7 @@ Currently, I'm diving deep into robotics research at CAIR, IIT Mandi, while also
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rupendrakatakam&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
